@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="controller_TP_J2EE:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/controller_TP_J2EE_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="controller_TP_J2EE/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="controller_TP_J2EE" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
